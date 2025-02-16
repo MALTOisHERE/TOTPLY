@@ -27,8 +27,8 @@ Before running the project, ensure you have the following installed:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/MALTOisHERE/TOTpy.git
-cd TOTpy
+git clone https://github.com/m1tk/TOTPY.git
+cd TOTPY
 ```
 ### 2. Install Dependencies
 
